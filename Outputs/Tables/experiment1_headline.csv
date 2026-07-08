@@ -1,0 +1,2 @@
+target,features,probe,rho,rho_std,rho_max,verdict
+MHR,X_full (source cols kept),linear(ridge),1.0,0.0,0.95,FAIL (functional leakage)

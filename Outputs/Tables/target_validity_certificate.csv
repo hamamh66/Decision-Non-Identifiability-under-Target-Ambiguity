@@ -1,0 +1,10 @@
+quantity,value
+reconstructibility rho (Lemma 1),1.0
+kappa — full simplex (tier),0.085
+kappa — deployed 2-factor decision,0.041
+Routine<->Emergency reversal,0.371
+Emergency flag non-identified,0.606
+kappa_min (pre-registered),0.9
+Low<->High reversal fraction,0.508
+patients with non-identified tier,0.915
+deployment verdict,NOT CERTIFIABLE (decisions non-identified)

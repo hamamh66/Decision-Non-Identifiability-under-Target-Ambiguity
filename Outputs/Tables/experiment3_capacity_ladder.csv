@@ -1,0 +1,6 @@
+probe,rho_MHR,rho_MHR+3sigma_noise
+linear(ridge),1.0,0.0797
+tree_d1,0.426,0.0338
+tree_d3,0.7898,0.0275
+GBM,0.9965,0.0143
+RF,0.9838,0.018

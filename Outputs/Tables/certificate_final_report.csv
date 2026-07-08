@@ -1,0 +1,14 @@
+metric,value
+data_is_real,True
+n_rows,1200
+rho_reference,1.0
+kappa_full_simplex_tier,0.085
+kappa_deployed_decision,0.041
+routine_emergency_reversal,0.371
+emergency_flag_non_identified,0.606
+kappa_min,0.9
+low_high_reversal,0.508
+any_tier_change,0.915
+frac_patients_multi_tier,0.915
+model_tier_agreement_mean,0.981
+deployment_verdict,NOT CERTIFIABLE (decisions non-identified)

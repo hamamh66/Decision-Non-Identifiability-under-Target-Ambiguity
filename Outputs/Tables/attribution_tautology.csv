@@ -1,0 +1,5 @@
+weights,analytic_top_factor,trained_model_top_factor,test_R2
+"(np.float64(0.8), np.float64(0.1), np.float64(0.1))",Depression_Score,Depression_Score,0.9996
+"(np.float64(0.1), np.float64(0.8), np.float64(0.1))",Anxiety_Score,Anxiety_Score,0.9997
+"(np.float64(0.1), np.float64(0.1), np.float64(0.8))",Stress_Level,Stress_Level,0.9975
+"(np.float64(0.4), np.float64(0.3), np.float64(0.3))",Depression_Score,Depression_Score,0.9939

@@ -1,0 +1,4 @@
+class,detector,null,result,verdict
+distributional,KS two-sample on X marginals (BH-corrected),train/test identically distributed,"1/21 raw, 0/21 corrected",clean
+temporal,time-ordering audit,no future info in target,N/A (cross-sectional; no temporal index),not applicable
+functional,reconstructibility index rho,rho < rho_max (0.95),rho=1.0000,FAIL — leakage
