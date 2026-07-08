@@ -1,0 +1,2 @@
+# Decision-Non-Identifiability-under-Target-Ambiguity
+Official implementation of the Decision Identifiability Framework, introducing the Certified Decision Fraction (κ) for quantifying decision invariance under composite-target ambiguity. It provides complete source code, reproducible experiments, theoretical validation, cross-domain evaluations, and all artifacts required to reproduce the results.
